@@ -1,1 +1,1 @@
-print("iove pencils")
+print("iove penls")

@@ -1,1 +1,1 @@
-print('heloo. im monkey. i love bananas')
+print('heloo. im onkey. i love bananas')
